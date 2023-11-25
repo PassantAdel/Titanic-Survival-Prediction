@@ -6,8 +6,8 @@ The script utilizes the pandas and scikit-learn libraries for data manipulation 
 The dataset used for training and testing the model is loaded from CSV files named "train.csv" and "test.csv."
 
 ## Problem Statement
-The goal is to predict whether a passenger survived or not based on the given features. 
-The script demonstrates the process of exploring the data, training a Random Forest model, and generating predictions.
+* The goal is to predict whether a passenger survived or not based on the given features. 
+* The script demonstrates the process of exploring the data, training a Random Forest model, and generating predictions.
 
 ## Dependencies
 Make sure you have the required dependencies installed. You can install them using the following:
