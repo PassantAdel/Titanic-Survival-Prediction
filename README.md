@@ -11,8 +11,8 @@ The dataset used for training and testing the model is loaded from CSV files nam
 
 ## Dependencies
 Make sure you have the required dependencies installed. You can install them using the following:
-pip install pandas.
-pip install scikit-learn.
+* pip install pandas.
+* pip install scikit-learn.
 
 ## Steps  
 
